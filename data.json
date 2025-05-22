@@ -1,18 +1,371 @@
 [
-  {
-    "owner": "Vanessa Romero ",
-    "color": "blanco ",
-    "plate": "pdm",
-    "address": "sanfrancisco 1",
-    "model": "vitara "
-  },
-  {
-    "dueno": "Cesar Obando ",
-    "marca": "prueba",
-    "color": "prueba",
-    "tipo": "prueba",
+   {
+    "dueno": "Cesar Obando",
+    "marca": "no existe",
+    "color": "no existe",
+    "tipo": "no existe",
     "placa": "PCR3648",
     "numeroCasa": "1",
+    "direccion": "SAN FRANCISCO 2"
+  },
+  {
+    "dueno": "Bremilda Ramos",
+    "marca": "no existe",
+    "color": "no existe",
+    "tipo": "no existe",
+    "placa": "PDH4189",
+    "numeroCasa": "1",
+    "direccion": "SAN FRANCISCO 2"
+  },
+  {
+    "dueno": "Martha Pozo",
+    "marca": "no existe",
+    "color": "no existe",
+    "tipo": "no existe",
+    "placa": "PBI1653",
+    "numeroCasa": "2",
+    "direccion": "SAN FRANCISCO 2"
+  },
+  {
+    "dueno": "Mario Mena",
+    "marca": "no existe",
+    "color": "no existe",
+    "tipo": "no existe",
+    "placa": "PBI6550",
+    "numeroCasa": "2",
+    "direccion": "SAN FRANCISCO 2"
+  },
+  {
+    "dueno": "Diego Vinueza",
+    "marca": "no existe",
+    "color": "no existe",
+    "tipo": "no existe",
+    "placa": "PCV9746",
+    "numeroCasa": "3",
+    "direccion": "SAN FRANCISCO 2"
+  },
+  {
+    "dueno": "Sonia Brazales",
+    "marca": "no existe",
+    "color": "no existe",
+    "tipo": "no existe",
+    "placa": "PCS4655",
+    "numeroCasa": "3",
+    "direccion": "SAN FRANCISCO 2"
+  },
+  {
+    "dueno": "Omar Gordón",
+    "marca": "no existe",
+    "color": "no existe",
+    "tipo": "no existe",
+    "placa": "PDH4574",
+    "numeroCasa": "4",
+    "direccion": "SAN FRANCISCO 2"
+  },
+  {
+    "dueno": "Maricela Cevallos",
+    "marca": "no existe",
+    "color": "no existe",
+    "tipo": "no existe",
+    "placa": "PDA4087",
+    "numeroCasa": "5",
+    "direccion": "SAN FRANCISCO 2"
+  },
+  {
+    "dueno": "Luis Navarrete",
+    "marca": "no existe",
+    "color": "no existe",
+    "tipo": "no existe",
+    "placa": "PCV5078",
+    "numeroCasa": "6",
+    "direccion": "SAN FRANCISCO 2"
+  },
+  {
+    "dueno": "Patricia Espinosa",
+    "marca": "no existe",
+    "color": "no existe",
+    "tipo": "no existe",
+    "placa": "no existe",
+    "numeroCasa": "7",
+    "direccion": "SAN FRANCISCO 2"
+  },
+  {
+    "dueno": "Eduardo Grijalva",
+    "marca": "no existe",
+    "color": "no existe",
+    "tipo": "no existe",
+    "placa": "PDG3642",
+    "numeroCasa": "8",
+    "direccion": "SAN FRANCISCO 2"
+  },
+  {
+    "dueno": "Marcelo Hernandez",
+    "marca": "no existe",
+    "color": "no existe",
+    "tipo": "no existe",
+    "placa": "no existe",
+    "numeroCasa": "9",
+    "direccion": "SAN FRANCISCO 2oja Bueno"
+  },
+  {
+    "dueno": "Silvia Flores",
+    "marca": "no existe",
+    "color": "no existe",
+    "tipo": "no existe",
+    "placa": "PBR6599",
+    "numeroCasa": "10",
+    "direccion": "SAN FRANCISCO 2"
+  },
+  {
+    "dueno": "Miguel Fuertes",
+    "marca": "no existe",
+    "color": "no existe",
+    "tipo": "no existe",
+    "placa": "PDI9936",
+    "numeroCasa": "10",
+    "direccion": "SAN FRANCISCO 2"
+  },
+  {
+    "dueno": "Christian Mora",
+    "marca": "no existe",
+    "color": "no existe",
+    "tipo": "no existe",
+    "placa": "PCO1991",
+    "numeroCasa": "11",
+    "direccion": "SAN FRANCISCO 2"
+  },
+  {
+    "dueno": "María de los Angeles Arellano",
+    "marca": "no existe",
+    "color": "no existe",
+    "tipo": "no existe",
+    "placa": "PDJ1023",
+    "numeroCasa": "11",
+    "direccion": "SAN FRANCISCO 2"
+  },
+  {
+    "dueno": "Bayron Pilco",
+    "marca": "no existe",
+    "color": "no existe",
+    "tipo": "no existe",
+    "placa": "PCQ3730",
+    "numeroCasa": "12",
+    "direccion": "SAN FRANCISCO 2"
+  },
+  {
+    "dueno": "Sojaida Arellano",
+    "marca": "no existe",
+    "color": "no existe",
+    "tipo": "no existe",
+    "placa": "JE233V",
+    "numeroCasa": "12",
+    "direccion": "SAN FRANCISCO 2"
+  },
+  {
+    "dueno": "Mónica Alarcón",
+    "marca": "no existe",
+    "color": "no existe",
+    "tipo": "no existe",
+    "placa": "PCL3958",
+    "numeroCasa": "13",
+    "direccion": "SAN FRANCISCO 2"
+  },
+  {
+    "dueno": "Pablo Soliz",
+    "marca": "no existe",
+    "color": "no existe",
+    "tipo": "no existe",
+    "placa": "PBO6282",
+    "numeroCasa": "13",
+    "direccion": "SAN FRANCISCO 2"
+  },
+  {
+    "dueno": "Yolanda Balseca / Leonardo Pavón",
+    "marca": "no existe",
+    "color": "no existe",
+    "tipo": "no existe",
+    "placa": "PDB8194",
+    "numeroCasa": "14",
+    "direccion": "SAN FRANCISCO 2"
+  },
+  {
+    "dueno": "Cristian Zapata",
+    "marca": "no existe",
+    "color": "no existe",
+    "tipo": "no existe",
+    "placa": "PBZ6329",
+    "numeroCasa": "14",
+    "direccion": "SAN FRANCISCO 2"
+  },
+  {
+    "dueno": "Lizeth Pavon / Jonathan Cordova",
+    "marca": "no existe",
+    "color": "no existe",
+    "tipo": "no existe",
+    "placa": "PCF9994",
+    "numeroCasa": "14",
+    "direccion": "SAN FRANCISCO 2"
+  },
+  {
+    "dueno": "Jhonny Paucar",
+    "marca": "no existe",
+    "color": "no existe",
+    "tipo": "no existe",
+    "placa": "PCY1880",
+    "numeroCasa": "15",
+    "direccion": "SAN FRANCISCO 2"
+  },
+   {
+    "dueno": "Kléver Guaytarilla",
+    "marca": "no existe",
+    "color": "no existe",
+    "tipo": "no existe",
+    "placa": "PDQ2903",
+    "numeroCasa": "16",
+    "direccion": "SAN FRANCISCO 2"
+  },
+  {
+    "dueno": "Kléver Alberto Guaytarilla",
+    "marca": "no existe",
+    "color": "no existe",
+    "tipo": "no existe",
+    "placa": "no existe",
+    "numeroCasa": "16",
+    "direccion": "SAN FRANCISCO 2"
+  },
+  {
+    "dueno": "Doménica Guaytarilla",
+    "marca": "no existe",
+    "color": "no existe",
+    "tipo": "no existe",
+    "placa": "PCM3350",
+    "numeroCasa": "16",
+    "direccion": "SAN FRANCISCO 2"
+  },
+  {
+    "dueno": "Magaly Acosta",
+    "marca": "no existe",
+    "color": "no existe",
+    "tipo": "no existe",
+    "placa": "no existe",
+    "numeroCasa": "16",
+    "direccion": "SAN FRANCISCO 2"
+  },
+  {
+    "dueno": "Patricio Troya",
+    "marca": "no existe",
+    "color": "no existe",
+    "tipo": "no existe",
+    "placa": "PBJ9089",
+    "numeroCasa": "17",
+    "direccion": "SAN FRANCISCO 2"
+  },
+  {
+    "dueno": "Silvia Ontaneda",
+    "marca": "no existe",
+    "color": "no existe",
+    "tipo": "no existe",
+    "placa": "no existe",
+    "numeroCasa": "17",
+    "direccion": "SAN FRANCISCO 2"
+  },
+  {
+    "dueno": "Efraín Núñez",
+    "marca": "no existe",
+    "color": "no existe",
+    "tipo": "no existe",
+    "placa": "no existe",
+    "numeroCasa": "17",
+    "direccion": "SAN FRANCISCO 2"
+  },
+  {
+    "dueno": "Danny Proaño",
+    "marca": "no existe",
+    "color": "no existe",
+    "tipo": "no existe",
+    "placa": "PDP6713",
+    "numeroCasa": "18",
+    "direccion": "SAN FRANCISCO 2"
+  },
+  {
+    "dueno": "Gabriel Baldeón",
+    "marca": "no existe",
+    "color": "no existe",
+    "tipo": "no existe",
+    "placa": "PCE9474",
+    "numeroCasa": "18",
+    "direccion": "SAN FRANCISCO 2"
+  },
+  {
+    "dueno": "Gabriela Mayorga",
+    "marca": "no existe",
+    "color": "no existe",
+    "tipo": "no existe",
+    "placa": "no existe",
+    "numeroCasa": "18",
+    "direccion": "SAN FRANCISCO 2"
+  },
+  {
+    "dueno": "Christian López",
+    "marca": "no existe",
+    "color": "no existe",
+    "tipo": "no existe",
+    "placa": "no existe",
+    "numeroCasa": "19",
+    "direccion": "SAN FRANCISCO 2"
+  },
+  {
+    "dueno": "Doris Aimacaña",
+    "marca": "no existe",
+    "color": "no existe",
+    "tipo": "no existe",
+    "placa": "PCJ6186",
+    "numeroCasa": "19",
+    "direccion": "SAN FRANCISCO 2"
+  },
+  {
+    "dueno": "Narcisa Aracely Abad",
+    "marca": "no existe",
+    "color": "no existe",
+    "tipo": "no existe",
+    "placa": "no existe",
+    "numeroCasa": "19",
+    "direccion": "SAN FRANCISCO 2"
+  },
+  {
+    "dueno": "José Guerrero",
+    "marca": "no existe",
+    "color": "no existe",
+    "tipo": "no existe",
+    "placa": "PDR7052",
+    "numeroCasa": "20",
+    "direccion": "SAN FRANCISCO 2"
+  },
+  {
+    "dueno": "Yadira Mosquera",
+    "marca": "no existe",
+    "color": "no existe",
+    "tipo": "no existe",
+    "placa": "PDL2675",
+    "numeroCasa": "20",
+    "direccion": "SAN FRANCISCO 2"
+  },
+  {
+    "dueno": "Gabriela Peñaherrera",
+    "marca": "no existe",
+    "color": "no existe",
+    "tipo": "no existe",
+    "placa": "IBB3335",
+    "numeroCasa": "21",
+    "direccion": "SAN FRANCISCO 2"
+  },
+  {
+    "dueno": "Rafael Cifuentes",
+    "marca": "no existe",
+    "color": "no existe",
+    "tipo": "no existe",
+    "placa": "LBN0559",
+    "numeroCasa": "21",
     "direccion": "SAN FRANCISCO 2"
   }
 ]
